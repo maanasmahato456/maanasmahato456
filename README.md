@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently working on Reactjs and Strapi
+# I'm currently working on Reactjs and Strapi
 
 
 ## 🌐 Socials:
