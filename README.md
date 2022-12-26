@@ -14,6 +14,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maanasmahato456&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maanasmahato456&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<a href="https://app.daily.dev/maanasmahato456"><img src="https://api.daily.dev/devcards/6195c990f36b44748ca4c4ea607b1dc6.png?r=3d0" width="400" alt="maanas mahato's Dev Card"/></a>
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
